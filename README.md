@@ -58,6 +58,12 @@ npm run preview
 5. Watch the live charts and news events
 6. Try to maximize your portfolio value!
 
-## License
+## Copyright & Ownership
 
-MIT
+Copyright (c) 2026 Akshat Mishra. All Rights Reserved.
+
+This applies to original source code, documentation, architecture, and assets authored by the copyright holder. Third-party software, data, fonts, and contributions remain subject to their own licenses and notices. No additional permission is granted for those original materials. Viewing and forking through GitHub remain subject to GitHub’s Terms of Service. For licensing inquiries, contact the copyright holder through GitHub.
+
+## License history
+
+Earlier copies were distributed under GPL-3.0. Changing the current notice does not revoke permissions already granted for those copies.
